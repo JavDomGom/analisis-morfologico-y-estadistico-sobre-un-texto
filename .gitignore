@@ -1,6 +1,8 @@
 ### Local files ###
 log/*
 prompt.txt
+main.py
+requirements.txt
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
